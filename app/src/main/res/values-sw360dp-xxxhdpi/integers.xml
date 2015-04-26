@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="keyguard_numpad_key_top_padding">25</integer>
+    <integer name="keyguard_numpad_key_klondike_top_padding">-16</integer>
+    <item type="integer" name="APKTOOL_DUMMY_004c">false</item>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s_view_cover_missed_event_secured_popup">Phone locked. Open cover to view more details.</string>
+    <item type="string" name="APKTOOL_DUMMY_01da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_050f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0510">false</item>
+</resources>
